@@ -1,0 +1,7 @@
+// comments and parentheses are allowed
+
+./fb1-5
+(2 + 3) * 4 // blabla
+= 20
+2 * (3 +   4) // some comments
+= 14
